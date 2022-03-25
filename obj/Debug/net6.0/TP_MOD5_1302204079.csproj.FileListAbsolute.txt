@@ -1,0 +1,15 @@
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\bin\Debug\net6.0\TP_MOD5_1302204079.exe
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\bin\Debug\net6.0\TP_MOD5_1302204079.deps.json
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\bin\Debug\net6.0\TP_MOD5_1302204079.runtimeconfig.json
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\bin\Debug\net6.0\TP_MOD5_1302204079.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\bin\Debug\net6.0\TP_MOD5_1302204079.pdb
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\TP_MOD5_1302204079.csproj.AssemblyReference.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\TP_MOD5_1302204079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\TP_MOD5_1302204079.AssemblyInfoInputs.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\TP_MOD5_1302204079.AssemblyInfo.cs
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\TP_MOD5_1302204079.csproj.CoreCompileInputs.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\TP_MOD5_1302204079.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\refint\TP_MOD5_1302204079.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\TP_MOD5_1302204079.pdb
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\TP_MOD5_1302204079.genruntimeconfig.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD5_1302204079\obj\Debug\net6.0\ref\TP_MOD5_1302204079.dll
